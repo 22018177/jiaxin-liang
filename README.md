@@ -4,7 +4,7 @@ project name:Floating Gift
 This is my final project for the course Coding one,This project shows a gift block that floats and dives between the sky and the ocean.For a detailed demonstration, you can watch this video:https://youtu.be/pKzm2jIj_ZE
 
 
-My code is in the file:index.html
+My code is in the file:index.html(open it with vs code)
 
 
 In this project, you can change the color of the sky (elevation), the position of the sun (azimuth), the flow of the water (distortonscale and size) by dragging the buttons in the background music.![0ONY 2($~9FUL28$W9)1X{4](https://user-images.githubusercontent.com/117812805/205656634-4916f46b-b62b-49f5-a2d0-b656b5650a0c.png)
