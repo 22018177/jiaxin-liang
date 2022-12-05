@@ -1,24 +1,32 @@
 # Floating Gift
 project name:Floating Gift
 # Introduction
-This is my final project for the course Coding one,This project shows a gift block that floats and dives between the sky and the ocean.For a detailed demonstration, you can watch this video:https://youtu.be/pKzm2jIj_ZE
+This is my final project for the course Coding one,This project shows a gift block that floats and dives between the sky and the ocean.
+
+For a detailed demonstration, you can watch this video:https://youtu.be/pKzm2jIj_ZE
 
 
-My code is in the file:index.html(open it with vs code)
+you can see my code is in the file:index.html
+
+(maybe need to open it with vscode(open with live server))
 
 
-In this project, you can change the color of the sky (elevation), the position of the sun (azimuth), the flow of the water (distortonscale and size) by dragging the buttons in the background music.![0ONY 2($~9FUL28$W9)1X{4](https://user-images.githubusercontent.com/117812805/205656634-4916f46b-b62b-49f5-a2d0-b656b5650a0c.png)
+In this project, you can change the color of the sky (elevation), the position of the sun (azimuth), the flow of the water (distortonscale and size) by dragging the buttons in the background music.
+
+![0ONY 2($~9FUL28$W9)1X{4](https://user-images.githubusercontent.com/117812805/205656634-4916f46b-b62b-49f5-a2d0-b656b5650a0c.png)
 # Visual
-At this time, when the elevation slider is pulled to the far right, there will be a snow-white sky. I want to create a feeling of high-altitude snow.
+At this project, when the elevation slider is pulled to the far right, there will be a snow-white sky. I want to create a feeling of high-altitude snow.It's a calming atmosphere.
 ![3Q(YM%70`A47F1F2MV6$M$W](https://user-images.githubusercontent.com/117812805/205658137-260159b7-3d69-4b3a-9628-4868c9d85eb5.png)
 
-On the contrary, if the slider is pulled to the far left, the beautiful sky with the setting sun will appear. I want to express the hot temperature of the setting sun.
+On the contrary, if the slider is pulled to the far left, the beautiful sky with the setting sun will appear. I want to express the hot temperature of the setting sun.The environment is completely different from the cube in the previous picture. I want the environment to be hot and warm, and hope that his enthusiasm can infect everyone who sees it.It's a hot atmosphere.
 
 ![I%M`KJ {T0A39{W8 R4EUK9](https://user-images.githubusercontent.com/117812805/205658632-036f84a4-e81b-4cf6-a694-284edec4a2da.png)
 
-The ripples on the water surface can also be changed, pulling it back and forth can give people a sparkling feeling.
+The ripples on the water surface can also be changed, pulling it back and forth can give people a sparkling feeling.And the change of the wave will also make the block look big and sometimes small.
 ![M$YEWSXM{A@ I (O I1%@T7](https://user-images.githubusercontent.com/117812805/205658940-1def44fe-5da3-437d-af5c-a32ea51a50a1.png)
 ![SUH6T4@C7@ NW@2)}9450QA](https://user-images.githubusercontent.com/117812805/205658958-0c258d19-8210-4ba6-ab9f-ba1ca8b8ddc6.png)
+
+I also want to show a thought in this project: no matter how your environment changes, please always keep your heart, and don't let other people or other things affect your original dream or opinion. Insist on being the most precious thing in the world.Don't care about anyone's opinion, as long as you have a clear conscience, that's enough.
 
 # Process
 The sunflower block of week 7 and the beautiful sunset and ocean scenes in https://threejs.org/ inspired me to make a block that rotates between the sky and the ocean. I refer to a lot of materials to understand how to make a beautiful sky and a beautiful ocean. It is too difficult. I not only use the links mentioned in the course, but also find solutions on bilibili and youtube. I made a lot of mistakes in the middle of the process, tried other software besides mimic, experienced a long time of not working and black screen, I thought I was going crazy, but I persisted. I have to say that the material library is really great, which allows us to get the effect we want more quickly. In my opinion, the overall result is good.
