@@ -8,8 +8,6 @@ For a detailed demonstration, you can watch this video:https://youtu.be/pKzm2jIj
 
 you can see my code is in the file:index.html
 
-(maybe need to open it with vscode(open with live server))
-
 
 In this project, you can change the color of the sky (elevation), the position of the sun (azimuth), the flow of the water (distortonscale and size) by dragging the buttons in the background music.
 
@@ -30,6 +28,10 @@ I also want to show a thought in this project: no matter how your environment ch
 
 # Process
 The sunflower block of week 7 and the beautiful sunset and ocean scenes in https://threejs.org/ inspired me to make a block that rotates between the sky and the ocean. I refer to a lot of materials to understand how to make a beautiful sky and a beautiful ocean. It is too difficult. I not only use the links mentioned in the course, but also find solutions on bilibili and youtube. I made a lot of mistakes in the middle of the process, tried other software besides mimic, experienced a long time of not working and black screen, I thought I was going crazy, but I persisted. I have to say that the material library is really great, which allows us to get the effect we want more quickly. In my opinion, the overall result is good.
+
+you can see my code is in the file:index.html
+
+(maybe need to open it with vscode(open with live server))
 
 I used three.js to make this project better for me.There are many teachings about three.js on the Internet, and there are a large number of material libraries available for me to use, which is very convenient!
 
