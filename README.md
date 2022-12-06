@@ -5,6 +5,8 @@ This is my final project for the course Coding one,This project shows a gift blo
 
 For a detailed demonstration, you can watch this video:https://youtu.be/pKzm2jIj_ZE
 
+mimic link：https://mimicproject.com/code/0cfc4a78-bbc7-225f-c8fd-95aceb36e745
+
 
 you can see my code is in the file:index.html
 
